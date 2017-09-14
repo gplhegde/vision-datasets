@@ -26,3 +26,4 @@
 ## Human body key-point detection (pose estimation)
 
 1. [MS COCO](http://cocodataset.org/#home) <-- Key point detection challenge subset
+2. [AFLW](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
